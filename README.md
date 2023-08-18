@@ -7,7 +7,7 @@ Resources in this repository
 
 * Excel Template for your FOLIO Locations and Data Types
 
-* Sample Jupyter notebooks for data cleanup
+* Sample Jupyter notebook for data cleanup
 
 External resources
 ---------------
